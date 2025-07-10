@@ -1,5 +1,7 @@
 # Telegram Book Downloader Bot
 
+[Try it out](t.me/@B00kDLBot)
+
 ## How to use
 
 1. Make a bot using [BotFather](https://t.me/@BotFather)
