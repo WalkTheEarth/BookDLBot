@@ -19,7 +19,7 @@ BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 ZLIB_EMAIL = "your_email@example.com"
 ZLIB_PASSWORD = "your_password"
 GITHUB_REPO = "github.com/WalkTheEarth/BookDLBot"
-REQUEST_TIMEOUT = 30  # seconds
+REQUEST_TIMEOUT = 120  # seconds
 
 # Enable logging
 logging.basicConfig(
