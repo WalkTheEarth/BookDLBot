@@ -1,6 +1,6 @@
 # Telegram Book Downloader Bot
 
-[Try it out](https://t.me/B00KDLBot)
+[Try it out](https://t.me/B00KDLBot) Often rate limited/doesnt work. not sure why but i dont care it works
 
 ## How to use
 
