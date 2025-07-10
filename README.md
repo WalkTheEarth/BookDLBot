@@ -1,10 +1,10 @@
 # Telegram Book Downloader Bot
 
-[Try it out](https://t.me/@B00kDLBot)
+[Try it out](https://t.me/B00KDLBot)
 
 ## How to use
 
-1. Make a bot using [BotFather](https://t.me/@BotFather)
+1. Make a bot using [BotFather](https://t.me/BotFather)
 2. Create a account on [z-library](https://z-lib.gd)
 3. `git clone https://gituhb.com/WalkTheEarth/BookDLBot.git`
 4. `cd BookDLBot`
