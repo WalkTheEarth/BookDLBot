@@ -1,6 +1,6 @@
 # Telegram Book Downloader Bot
 
-[Try it out](t.me/@B00kDLBot)
+[Try it out](https://t.me/@B00kDLBot)
 
 ## How to use
 
