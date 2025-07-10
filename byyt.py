@@ -77,6 +77,7 @@ class ZLibraryBot:
                 "🔍 Use /search to find books\n"
                 "📥 Use /download to download books\n"
                 "ℹ️ Use /opensource to view the source code"
+                "ℹ️ You need to log into the z-library before starting. 'z-library.sk'"
             )
         except Exception as e:
             logger.error(f"Error in start: {str(e)}")
